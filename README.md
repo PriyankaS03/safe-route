@@ -18,7 +18,7 @@ It uses smart route analysis, voice-triggered emergency alerts, and real-time mo
 - AI-based detection  
 
 ## 📂 Project Structure
-shesenseai/ ├── ps.py ├── README.md
+safe-route/ ├── ps.py ├── README.md
 ## ▶️ How to Run
 1. Install Python  
 2. Run the file:
