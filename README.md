@@ -1,45 +1,38 @@
-SheSense AI – SafeRoute System 🚨
+##SheSense AI – SafeRoute System 🚨
 
-📌 Description
-
-SheSense SafeRoute AI+ is an AI-based safety and navigation system designed to enhance personal security.
+##📌 Description
+SheSense SafeRoute AI+ is an AI-based safety and navigation system designed to enhance personal security.  
 It uses smart route analysis, voice-triggered emergency alerts, and real-time monitoring.
 
-🚀 Features
+##🚀 Features
+- Smart route safety analysis  
+- Voice-triggered emergency alerts  
+- OTP-based login system  
+- Distress word detection  
+- Offline alert system  
+- Modules for police, hospital, and pregnancy assistance  
 
-Smart route safety analysis
-Voice-triggered emergency alerts
-OTP-based login system
-Distress word detection
-Offline alert system
-Modules for police, hospital, and pregnancy assistance
+## 🛠️ Technologies Used
+- Python  
+- Machine Learning  
+- AI-based detection  
 
-🛠️ Technologies Used
+## 📂 Project Structure
+shesenseai/ ├── ps.py ├── README.md
+## ▶️ How to Run
+1. Install Python  
+2. Run the file:
+   python ps.py  
 
-Python
-Machine Learning
-AI-based detection
+## 🎯 Future Improvements
+- Mobile app integration  
+- Real-time GPS tracking  
+- Deep learning enhancements  
 
-📂 Project Structure
+## 👩‍💻 Author
+Priyanka
 
-saferoute/ ├── ps.py ├── README.md
-
-▶️ How to Run
-
-Install Python
-Run the file: python ps.py
-
-🎯 Future Improvements
-
-Mobile app integration
-Real-time GPS tracking
-Deep learning enhancements
-
-👩‍💻 Author
-
-priyanka
-
-Screenshot
+## Screenshot
 
 <img width="1888" height="826" alt="Screenshot 2026-05-01 114858" src="https://github.com/user-attachments/assets/c669ca42-766c-4d6e-b4a8-0458ab0ee17f" />
 <img width="1845" height="771" alt="Screenshot 2026-05-01 115423" src="https://github.com/user-attachments/assets/0237c8de-c0a6-40ab-b682-3ea7ee0a7e73" />
