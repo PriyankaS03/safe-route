@@ -1,10 +1,10 @@
-##SheSense AI – SafeRoute System 🚨
+## SheSense AI – SafeRoute System 🚨
 
-##📌 Description
+## 📌 Description
 SheSense SafeRoute AI+ is an AI-based safety and navigation system designed to enhance personal security.  
 It uses smart route analysis, voice-triggered emergency alerts, and real-time monitoring.
 
-##🚀 Features
+## 🚀 Features
 - Smart route safety analysis  
 - Voice-triggered emergency alerts  
 - OTP-based login system  
